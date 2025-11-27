@@ -18,17 +18,10 @@ The Explore Screen provides a clean and modern UI with a white theme, smooth scr
 
 ## 📸 Screenshots
 
-### **Explore Screen Overview**
-| Explore Header | Feature Cards | Categories |
-|----------------|---------------|------------|
-| ![Explore Header](assets/screenshots/explore-header.jpg) | ![Feature Cards](assets/screenshots/explore-features.jpg) | ![Categories](assets/screenshots/explore-categories.jpg) |
+### **Screen Overview**
 
-### **Popular Drivers**
-| Driver 1 | Driver 2 |
-|---------|----------|
-| ![Driver 1](assets/screenshots/driver-1.jpg) | ![Driver 2](assets/screenshots/driver-2.jpg) |
+ ![screen](assets/1.jpg)  ![screen2](assets/2.jpg)  ![screen3](assets/3.jpg)  ![screen4](assets/4.jpg)  ![screen5](assets/5.jpg) 
 
-> 📌 Add your images into `assets/screenshots/` and rename them to match the filenames above.
 
 ---
 
