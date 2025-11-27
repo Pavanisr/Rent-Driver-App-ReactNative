@@ -1,50 +1,41 @@
-# Welcome to your Expo app 👋
+# 🚗 Driver Rent App – Explore Screen
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+The **Driver Rent App** allows users to hire professional drivers for daily travel, long-distance rides, and night driving.  
+The Explore Screen provides a clean and modern UI with a white theme, smooth scrolling, feature cards, driver categories, and a list of popular drivers.
 
-## Get started
+---
 
-1. Install dependencies
+## ✨ Features
 
-   ```bash
-   npm install
-   ```
+- 🎡 **Parallax Header Image**  
+- 📦 **Feature Cards** (Daily, Long-Distance, Night Driving)  
+- 🚘 **Driver Categories** (Car, Van, Truck)  
+- ⭐ **Popular Drivers Section** (with ratings & trips)  
+- 🎨 **White + Blue Clean UI Theme**  
+- 📱 **Fully Responsive Layout for Mobile**
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 📸 Screenshots
 
-In the output, you'll find options to open the app in a
+### **Explore Screen Overview**
+| Explore Header | Feature Cards | Categories |
+|----------------|---------------|------------|
+| ![Explore Header](assets/screenshots/explore-header.jpg) | ![Feature Cards](assets/screenshots/explore-features.jpg) | ![Categories](assets/screenshots/explore-categories.jpg) |
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### **Popular Drivers**
+| Driver 1 | Driver 2 |
+|---------|----------|
+| ![Driver 1](assets/screenshots/driver-1.jpg) | ![Driver 2](assets/screenshots/driver-2.jpg) |
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+> 📌 Add your images into `assets/screenshots/` and rename them to match the filenames above.
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## 📦 Installation
 
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+```sh
+git clone <your-repository-url>
+cd driver-rent-app
+npm install
+tps://chat.expo.dev): Chat with Expo users and ask questions.
