@@ -1,4 +1,4 @@
-# 🚗 Driver Rent App – Explore Screen
+# 🚗 Driver Rent App Frontend
 
 The **Driver Rent App** allows users to hire professional drivers for daily travel, long-distance rides, and night driving.  
 The Explore Screen provides a clean and modern UI with a white theme, smooth scrolling, feature cards, driver categories, and a list of popular drivers.
