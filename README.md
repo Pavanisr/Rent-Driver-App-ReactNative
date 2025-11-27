@@ -20,7 +20,11 @@ The Explore Screen provides a clean and modern UI with a white theme, smooth scr
 
 ### **Screen Overview**
 
- ![screen](assets/1.jpg)  ![screen2](assets/2.jpg)  ![screen3](assets/3.jpg)  ![screen4](assets/4.jpg)  ![screen5](assets/5.jpg) 
+ ![screen](assets/images/1.png) 
+ ![screen2](assets/images/2.png) 
+ ![screen3](assets/images/3.png) 
+ ![screen4](assets/images/4.png) 
+ ![screen5](assets/images/5.png) 
 
 
 ---
